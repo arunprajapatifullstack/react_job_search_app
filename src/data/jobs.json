@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Designer",
+    "company": "Info Corp",
+    "location": "New York",
+    "level": "Senior",
+    "type": "Full Time",
+    "salary": "50k - 70k",
+    "posted": "10 hours ago"
+  },
+  {
+    "id": 2,
+    "title": "Python Developer",
+    "company": "Code INC",
+    "location": "Germany",
+    "level": "Senior",
+    "type": "Full Time",
+    "salary": "80k - 90k",
+    "posted": "2 days ago",
+    "remote": true
+  }
+]
